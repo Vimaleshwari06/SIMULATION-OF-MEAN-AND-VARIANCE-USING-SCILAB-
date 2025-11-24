@@ -75,11 +75,15 @@ ylabel("Correlation");
 title("Cross-Correlation between X and Y");
 
 ```
+calculation :
+
+![WhatsApp Image 2025-11-24 at 18 17 38_0a20b579](https://github.com/user-attachments/assets/ea09e3ae-edb4-466d-ae03-571e1ca83ac7)
+
+![WhatsApp Image 2025-11-24 at 18 17 38_c7169c3d](https://github.com/user-attachments/assets/43a28e17-b60e-4fcc-b8c9-79d338fe282f)
 
 __OUTPUT GRAPH:__
 
-![WhatsApp Image 2025-11-10 at 15 52 17_612a4f0b](https://github.com/user-attachments/assets/12d7570b-ae21-42dd-9298-4d9153b99900)
-
+<img width="770" height="721" alt="image" src="https://github.com/user-attachments/assets/032fa2d9-3071-4e34-8660-712889fd6860" />
 
 __RESULT:__
 
